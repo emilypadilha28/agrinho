@@ -3,7 +3,7 @@ body {
 }
 
 #FeiraRural {
-	width:100%;
+	width:95%;
 }
 
 .principal{
@@ -24,7 +24,7 @@ p {
 }
 
 em strong {
-	color: #FF0000;
+	color: #0b4d0b;
 }
 
 .itens {
@@ -33,7 +33,7 @@ em strong {
 
 .beneficios {
 	background: #FFFFFF;
-	padding: 20px;
+	padding: 10px;
 }
 
 h2 {
@@ -46,6 +46,6 @@ ul {
 	margin-right: 15%;
 }
 
-.imagembeneficios {
-	width: 50%;
+.imagemfeira2 {
+	width: 30%;
 }
