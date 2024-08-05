@@ -3,11 +3,11 @@ body {
 }
 
 #FeiraRural {
-	width: 95%;
+	width: 95;
 }
 
 .principal{
-	background: #abc1da;
+	background: #3c685e;
 	padding: 30px;
 }
 
@@ -24,7 +24,7 @@ p {
 }
 
 em strong {
-	color: #21373d;
+	color: #171a19;
 }
 
 .itens {
@@ -48,4 +48,13 @@ ul {
 
 .imagemfeira2 {
 	width: 30%;
+}
+
+.rodape{
+	text-align: center;
+}
+.rodape-imagem{
+  width: 200px;
+  text-align: center;
+
 }
